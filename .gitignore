@@ -1,0 +1,9 @@
+# Downloaded public data and notebook checkpoints
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.python_packages/
+work/
+Credit Default Prediction + Model Validation Report.ipynb
